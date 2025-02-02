@@ -1,4 +1,4 @@
-# Amazon Clone
+# Myntra Clone
 
 This project is a **clone of the Myntra website** built using **HTML** and **CSS**. It replicates the design and layout of Amazon's homepage, showcasing my skills in front-end web development and responsive design.
 
