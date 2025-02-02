@@ -1,6 +1,6 @@
 # Amazon Clone
 
-This project is a **clone of the Amazon website** built using **HTML** and **CSS**. It replicates the design and layout of Amazon's homepage, showcasing my skills in front-end web development and responsive design.
+This project is a **clone of the Myntra website** built using **HTML** and **CSS**. It replicates the design and layout of Amazon's homepage, showcasing my skills in front-end web development and responsive design.
 
 ---
 
@@ -34,7 +34,7 @@ This project is a **clone of the Amazon website** built using **HTML** and **CSS
    ```
 2. Navigate to the project directory:
    ```bash
-   cd amazon-clone
+   cd myntra-clone
    ```
 3. Open the `index.html` file in your browser to view the project.
 
@@ -71,5 +71,5 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 ## **Acknowledgments**
 
-- Inspired by Amazon's official website.
+- Inspired by Mynra's official website.
 - Thanks to the web development community for resources and tutorials.
